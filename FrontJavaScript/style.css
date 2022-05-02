@@ -1,0 +1,29 @@
+#main{
+    display: flex;
+}
+.menus_navegacao{
+    height: 100vh;
+    width: 5%;
+    
+}
+nav.menus_navegacao{
+    height: 100%;
+    width: 5%;
+    position: fixed;
+}
+
+#corpo{
+    height: 100vh;
+    width: 95%;
+}
+#nav{
+    height: 30px;
+    width: 100%;
+}
+#table_div{
+    display: flex;
+    justify-content: center;
+}
+#table{
+    width: 90%;
+}
